@@ -60,7 +60,7 @@ const VERSION_UPDATES: VersionUpdate[] = [
     ],
     fixes: ['优化了视频源管理功能', '优化视频搜索逻辑，增快搜索速度'],
     breaking: [
-      '永久域名：https://tv-delta-eosin.vercel.app/',
+      '无',
     ],
   },
   {
