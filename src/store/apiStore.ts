@@ -47,7 +47,7 @@ export const useApiStore = create<ApiStore>()(
     persist(
       immer<ApiStore>((set, get) => ({
         // 初始状态
-        selectedAPIs: ['heimuer'], // 默认选中黑木耳
+        selectedAPIs: ['tyyszy',"ffzy","ruyi"], // 默认选中黑木耳
         customAPIs: [],
         yellowFilterEnabled: true,
         adFilteringEnabled: true,
