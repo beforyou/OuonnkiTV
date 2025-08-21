@@ -41,7 +41,7 @@ export const API_SITES: Record<string, ApiSite> = {
   bfzy: {
     api: 'https://bfzyapi.com',
     name: '暴风资源',
-//  },
+  },
 //  mozhua: {
 //    api: 'https://mozhuazy.com',
 //    name: '魔爪资源',
