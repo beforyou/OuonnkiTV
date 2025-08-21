@@ -60,7 +60,7 @@ const VERSION_UPDATES: VersionUpdate[] = [
     ],
     fixes: ['优化了视频源管理功能', '优化视频搜索逻辑，增快搜索速度'],
     breaking: [
-      '旧版域名https://tv.new.ouonnki.site即将失效,请尽快使用新版域名访问https://tv.ouonnki.site',
+      '永久域名：https://tv-delta-eosin.vercel.app/',
     ],
   },
   {
