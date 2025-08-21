@@ -32,7 +32,7 @@ export const API_SITES: Record<string, ApiSite> = {
 //  cjhw: {
 //    api: 'https://cjhwba.com',
 //    name: '新华为',
-  },
+//  },
   jisu: {
     api: 'https://jszyapi.com',
     name: '极速资源',
