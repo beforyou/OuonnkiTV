@@ -7,11 +7,6 @@ export interface ApiSite {
 }
 
 export const API_SITES: Record<string, ApiSite> = {
-  heimuer: {
-    api: 'https://json.heimuer.xyz',
-    name: '黑木耳',
-    detail: 'https://heimuer.tv',
-  },
   ffzy: {
     api: 'http://api.ffzyapi.com',
     name: '非凡影视',
@@ -21,11 +16,11 @@ export const API_SITES: Record<string, ApiSite> = {
     api: 'https://tyyszy.com',
     name: '天涯资源',
   },
-  ckzy: {
-    api: 'https://www.ckzy1.com',
-    name: 'CK资源',
-    adult: true,
-  },
+//  ckzy: {
+//    api: 'https://www.ckzy1.com',
+//    name: 'CK资源',
+//    adult: true,
+//  },
   zy360: {
     api: 'https://360zy.com',
     name: '360资源',
@@ -34,9 +29,9 @@ export const API_SITES: Record<string, ApiSite> = {
     api: 'https://wolongzyw.com',
     name: '卧龙资源',
   },
-  cjhw: {
-    api: 'https://cjhwba.com',
-    name: '新华为',
+//  cjhw: {
+//    api: 'https://cjhwba.com',
+//    name: '新华为',
   },
   jisu: {
     api: 'https://jszyapi.com',
@@ -46,11 +41,11 @@ export const API_SITES: Record<string, ApiSite> = {
   bfzy: {
     api: 'https://bfzyapi.com',
     name: '暴风资源',
-  },
-  mozhua: {
-    api: 'https://mozhuazy.com',
-    name: '魔爪资源',
-  },
+//  },
+//  mozhua: {
+//    api: 'https://mozhuazy.com',
+//    name: '魔爪资源',
+//  },
   mdzy: {
     api: 'https://www.mdzyapi.com',
     name: '魔都资源',
